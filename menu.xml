@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="ISO-8859-15"?>
+<OX>
+<OXMENU id="SHOP_LOCATOR">
+    <MAINMENU id="SHOP_LOCATOR_PLACES">
+           <SUBMENU id="SHOP_LOCATOR_MAIN" cl="admin_shoplocator" list="admin_shoplocator_list">
+                <TAB id="SHOP_LOCATOR_MAIN" cl="admin_shoplocator_main" />
+                <BTN id="SHOP_LOCATOR_MANAGE_NEW" />
+            </SUBMENU>
+            <SUBMENU id="SHOP_LOCATOR_CONFIGURATION" cl="admin_shoplocator_configuration"></SUBMENU>
+    </MAINMENU>
+</OXMENU>
+</OX>
