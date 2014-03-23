@@ -2,7 +2,6 @@
 
 class shoplocator_out extends oxUBase
 {
-//put your code here
     /**
      * Current class template name.
      * @var string
