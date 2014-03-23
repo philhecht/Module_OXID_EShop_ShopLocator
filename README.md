@@ -4,7 +4,8 @@ Module OXID Eshop CE 4.8.x (PE/CE) ShopLocator StoreLocator
 
 The module ShopLocator for Oxid Eshop CE 4.8.x (PE/CE)
 
-The module functions:
+Version: 1.0.1 :
+
 language german
 streetview and styled maps
 configuration in the backend
