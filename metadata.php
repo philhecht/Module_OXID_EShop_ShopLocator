@@ -26,7 +26,6 @@ $aModule = array(
         'admin_shoplocator_list.tpl' => 'shoplocator/application/views/admin/tpl/admin_shoplocator_list.tpl',
         'admin_shoplocator_configuration.tpl' => 'shoplocator/application/views/admin/tpl/admin_shoplocator_configuration.tpl',
         'shoplocator_out.tpl' => 'shoplocator/application/views/shoplocator_out.tpl',
-        'shoplocator.tpl' => 'shoplocator/widget/shoplocator/shoplocator.tpl',
     ),
     'blocks' => array(
         array(
