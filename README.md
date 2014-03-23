@@ -6,15 +6,13 @@ The module ShopLocator for Oxid Eshop CE 4.8.x (PE/CE)
 
 Backend:
 
-![alt tag](https://github.com/philhecht/Module_OXID_EShop_ShopLocator/blob/master/screenshots/backend1.png)
+![ScreenShot](https://raw.githubusercontent.com/philhecht/Module_OXID_EShop_ShopLocator/master/screenshots/backend1.png)
 
-![alt tag](https://github.com/philhecht/Module_OXID_EShop_ShopLocator/blob/master/screenshots/backend2.png)
+![ScreenShot1](https://raw.githubusercontent.com/philhecht/Module_OXID_EShop_ShopLocator/master/screenshots/backend2.png)
 
 Frontend:
 
-![alt tag](https://github.com/philhecht/Module_OXID_EShop_ShopLocator/blob/master/screenshots/frontend.png)
+![ScreenShot2](https://raw.githubusercontent.com/philhecht/Module_OXID_EShop_ShopLocator/master/screenshots/frontend.png)
 
 
 Install the module: use the install Folder.
-
-
