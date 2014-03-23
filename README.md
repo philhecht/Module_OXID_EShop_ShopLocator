@@ -7,13 +7,23 @@ The module ShopLocator for Oxid Eshop CE 4.8.x (PE/CE)
 Version: 1.0.1 :
 
 language german
+
 streetview and styled maps
+
 configuration in the backend
+
 google Maps with Sidebar and Filter
+
 additional Information
+
 geocoordinates will be genrate from the adress
-individuell markers
+
+individuel markers
+
 calculate routes 
+
+
+===========================================================
 
 Backend:
 
