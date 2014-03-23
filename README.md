@@ -1,4 +1,4 @@
-Module OXID Eshop CE 4.8.x (PE/CE) ShopLocator Store Locator
+Module OXID Eshop CE 4.8.x (PE/CE) ShopLocator StoreLocator
 ============================================================
 
 
