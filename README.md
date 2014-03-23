@@ -14,6 +14,8 @@ Frontend:
 
 ![ScreenShot2](https://github.com/philhecht/Module_OXID_EShop_ShopLocator/blob/master/screenshots/frontend.png)
 
+![solarized vim](https://github.com/altercation/solarized/raw/master/img/solarized-vim.png)
+
 Install the module: use the install Folder.
 
 
