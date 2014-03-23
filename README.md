@@ -6,7 +6,7 @@ The module ShopLocator for Oxid Eshop CE 4.8.x (PE/CE)
 
 Backend:
 
-![ScreenShot](https://github.com/philhecht/Module_OXID_EShop_ShopLocator/blob/master/screenshots/backend1.png)
+![ScreenShot](https://github.com/philhecht/Module_OXID_EShop_ShopLocator/tree/master/screenshots/backend1.png)
 
 ![ScreenShot1](https://github.com/philhecht/Module_OXID_EShop_ShopLocator/blob/master/screenshots/backend2.png)
 
